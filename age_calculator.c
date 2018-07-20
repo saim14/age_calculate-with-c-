@@ -61,5 +61,6 @@ int main()
 		y[2]=(y[0]-y[1]);
 		printf("You are %d years %d months %d days old.\n",y[2],m[2],(d[2]+1));
 	}
+	return 0;
 
 }
