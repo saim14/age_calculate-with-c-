@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//Using array without any kind of looping
+
 int main()
 {
 	int d[3],m[3],y[3];
